@@ -45,7 +45,7 @@ title: TurtleTurtle.org
 [trtlpool.ninja](http://trtlpool.ninja/) → trtlpool.ninja  
 [pool.trtl.me](http://pool.trtl.me/) → pool.trtl.me  
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool
-[trtl.cryptohispano.net](http://trtl.cryptohispano.net) Cryptohispano TRTL Pool in Spanish
+[trtl.cryptohispano.net](http://trtl.cryptohispano.net/) → Cryptohispano TRTL Pool in Spanish
 
 
 ### Public Daemons
